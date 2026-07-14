@@ -2,6 +2,11 @@
 
 My first desktop calculator developed with Python and Tkinter.
 
+## Screenshot
+
+![Python Calculator](Capturar.PNG)
+
+
 ## 🚀 Features
 
 - Basic arithmetic operations
@@ -19,10 +24,6 @@ My first desktop calculator developed with Python and Tkinter.
 - Tkinter
 - Math
   
-## Screenshot
-
-![Python Calculator](Capturar.PNG)
-
 ## ▶️ How to run
 
 ```bash
